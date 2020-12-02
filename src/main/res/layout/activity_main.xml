@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:onClick="OnBtnClick"
-        android:text="Button"
+        android:text="REGISTER"
         app:layout_constraintEnd_toEndOf="@+id/edtTxtName3"
         app:layout_constraintStart_toStartOf="@+id/edtTxtName3"
         app:layout_constraintTop_toBottomOf="@+id/edtTxtName3" />
